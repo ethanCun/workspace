@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <artifactId>yaoyaoling-dis</artifactId>
         <groupId>com.czy</groupId>
+        <artifactId>workspace-boot</artifactId>
         <version>1.0.1</version>
     </parent>
 
